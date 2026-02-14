@@ -1,0 +1,77 @@
+# ------------------------------
+# Python cache & compiled files
+# ------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ------------------------------
+# Virtual environment
+# ------------------------------
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ------------------------------
+# Environment variables
+# ------------------------------
+.env
+.env.*
+*.env
+
+# ------------------------------
+# IDE / Editor files
+# ------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+
+# ------------------------------
+# Logs
+# ------------------------------
+*.log
+logs/
+
+# ------------------------------
+# Build / distribution
+# ------------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# ------------------------------
+# Coverage / Testing
+# ------------------------------
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# ------------------------------
+# Jupyter
+# ------------------------------
+.ipynb_checkpoints/
+
+# ------------------------------
+# Local images cache (your Ghost uploader)
+# ------------------------------
+images/
+
+# ------------------------------
+# Generated content
+# ------------------------------
+generated_posts.json
+
+# ------------------------------
+# OS files
+# ------------------------------
+Thumbs.db
+Desktop.ini
+
